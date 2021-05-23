@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{odGf:function(n,t,e){"use strict";e.r(t);var o={metaInfo:{}},u=e("KHd+"),a=Object(u.a)(o,(function(){var n=this.$createElement,t=this._self._c||n;return t("Layout",[t("h1"),t("p")])}),[],!1,null,null,null);t.default=a.exports}}]);
