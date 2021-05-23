@@ -1,12 +1,12 @@
-const c1 = () => import(/* webpackChunkName: "page--src--templates--news-vue" */ "/Users/changpeiyu/GitHub/test/src/templates/News.vue")
-const c2 = () => import(/* webpackChunkName: "page--src--pages--vvvvv-vue" */ "/Users/changpeiyu/GitHub/test/src/pages/Vvvvv.vue")
-const c3 = () => import(/* webpackChunkName: "page--src--pages--resource-vue" */ "/Users/changpeiyu/GitHub/test/src/pages/Resource.vue")
-const c4 = () => import(/* webpackChunkName: "page--src--pages--news-vue" */ "/Users/changpeiyu/GitHub/test/src/pages/News.vue")
-const c5 = () => import(/* webpackChunkName: "page--src--pages--index-copy-vue" */ "/Users/changpeiyu/GitHub/test/src/pages/Index copy.vue")
-const c6 = () => import(/* webpackChunkName: "page--src--pages--downloads-vue" */ "/Users/changpeiyu/GitHub/test/src/pages/Downloads.vue")
-const c7 = () => import(/* webpackChunkName: "page--src--pages--about-vue" */ "/Users/changpeiyu/GitHub/test/src/pages/About.vue")
-const c8 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/changpeiyu/GitHub/test/node_modules/gridsome/app/pages/404.vue")
-const c9 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/changpeiyu/GitHub/test/src/pages/Index.vue")
+const c1 = () => import(/* webpackChunkName: "page--src--templates--news-vue" */ "/Users/changpeiyu/last/src/templates/News.vue")
+const c2 = () => import(/* webpackChunkName: "page--src--pages--vvvvv-vue" */ "/Users/changpeiyu/last/src/pages/Vvvvv.vue")
+const c3 = () => import(/* webpackChunkName: "page--src--pages--resource-vue" */ "/Users/changpeiyu/last/src/pages/Resource.vue")
+const c4 = () => import(/* webpackChunkName: "page--src--pages--news-vue" */ "/Users/changpeiyu/last/src/pages/News.vue")
+const c5 = () => import(/* webpackChunkName: "page--src--pages--index-copy-vue" */ "/Users/changpeiyu/last/src/pages/Index copy.vue")
+const c6 = () => import(/* webpackChunkName: "page--src--pages--downloads-vue" */ "/Users/changpeiyu/last/src/pages/Downloads.vue")
+const c7 = () => import(/* webpackChunkName: "page--src--pages--about-vue" */ "/Users/changpeiyu/last/src/pages/About.vue")
+const c8 = () => import(/* webpackChunkName: "page--node-modules--gridsome--app--pages--404-vue" */ "/Users/changpeiyu/last/node_modules/gridsome/app/pages/404.vue")
+const c9 = () => import(/* webpackChunkName: "page--src--pages--index-vue" */ "/Users/changpeiyu/last/src/pages/Index.vue")
 
 export default [
   {
